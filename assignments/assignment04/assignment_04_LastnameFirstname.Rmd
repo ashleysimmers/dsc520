@@ -1,7 +1,7 @@
 ---
 title: "ASSIGNMENT 4"
-author: "Firstname Lastname"
-date: '2010-02-14'
+author: "Ashley Simmers"
+date: '2020-09-24'
 output:
   word_document: default
   html_document: default
@@ -12,16 +12,25 @@ bibliography: bibliography.bib
 # Markdown Basics
 
 ## Favorite Foods
+1. Pizza
+2. Fried Chicken
+3. Cookies
 
 ## Images
 
+[All Cases (Log Plot)](completed/assignment04/plots/)
+
 ## Add a Quote
+
+The weak can never forgive. Forgiveness is the attribute of the strong. Mahatma Gandhi
 
 ## Add an Equation
 
+(2+2)/4
+
 ## Add a Footnote
 
-This is a footnote
+This is a footnote, be impressed with my creativity!
 
 ## Add Citations
 
