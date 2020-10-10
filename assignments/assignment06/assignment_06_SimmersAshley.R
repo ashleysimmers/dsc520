@@ -1,6 +1,6 @@
 # Assignment: ASSIGNMENT 6
-# Name: Lastname, Firstname
-# Date: 2010-02-14
+# Name: Simmers, Ashley
+# Date: 2020-10-10
 
 ## Set the working directory to the root of your DSC 520 directory
 setwd("C:/Users/asimmers/Documents/GitHub/dsc520")
